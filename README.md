@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Catarina Silva \
+
+
 Ph.D student | Computer Science | MAP-i \
-Instituto de Telecomunicações, Aveiro, Portugal \
+Instituto de Telecomunicações, Aveiro, Portugal | TN-AV \
 University of Aveiro \
 c.alexandracorreia@ua.pt | c.alexandracorreia@av.it.pt \
 [ResearchGate](https://www.researchgate.net/profile/Catarina-Silva-44) | [ORCID](https://orcid.org/0000-0002-7969-8813) | [Linkedin](https://www.linkedin.com/in/catarinacorreiasilva/)
