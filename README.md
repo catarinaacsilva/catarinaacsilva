@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Catarina Silva \
+#### Catarina Silva
 
 
 Ph.D student | Computer Science | MAP-i \
