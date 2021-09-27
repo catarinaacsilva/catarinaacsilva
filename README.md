@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ph.D student | Computer Science | MAP-i
-Instituto de Telecomunicações, Aveiro, Portugal
+Ph.D student | Computer Science | MAP-i \
+Instituto de Telecomunicações, Aveiro, Portugal \
 University of Aveiro
 c.alexandracorreia@ua.pt
 c.alexandracorreia@av.it.pt
